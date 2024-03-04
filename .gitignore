@@ -1,0 +1,17 @@
+*
+!/**/
+
+!.gitignore
+!*.c
+!*.h
+!*.cpp
+!*.hpp
+!*.json
+!*.jsonl
+!*.html
+!*.py
+!*.js
+!*.css
+!*.xml
+
+

@@ -1,0 +1,40 @@
+.main-title {
+  color: blue;
+  font-size: 30px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  width: 300px;
+  gap: 10px;
+}
+
+.link-section {
+  height: 500px;
+  width: fit-content;
+  background-color: greenyellow;
+  justify-content: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  /* gap: 20px; */
+  column-gap: 10px;
+  row-gap: 20px;
+}
+
+.grid button {
+  height: 200px;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+.my-form {
+  background-color: aqua;
+  padding: 10px;
+  display: flex;
+  margin: auto;
+}
